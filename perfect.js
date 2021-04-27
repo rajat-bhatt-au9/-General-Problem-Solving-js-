@@ -21,4 +21,4 @@ function isPerfect(n) {
   }
 }
 
-console.log(isPerfect(12));
+console.log(isPerfect(6));
